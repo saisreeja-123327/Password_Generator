@@ -15,7 +15,7 @@ public class passwordgenerator{
          }
          System.out.println(password);
          
-         
+         // u will get the password in the console when u run the program
 
      }
 }
